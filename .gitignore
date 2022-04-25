@@ -1,2 +1,5 @@
 #Папка с виртуальным окружением
 crm-venv
+
+#Данные БД postgresql
+postgresql_pass_port.txt
