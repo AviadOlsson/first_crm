@@ -3,3 +3,6 @@ crm-venv
 
 #Данные БД postgresql
 postgresql_pass_port.txt
+
+#Развернутая БД PostgreSQL
+PostgreSQL
